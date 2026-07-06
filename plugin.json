@@ -1,0 +1,15 @@
+{
+  "slug": "gallery-example",
+  "type": "plugin",
+  "name": "Gallery Example",
+  "version": "1.0.0",
+  "description": "Reference plugin: adds an 'Image Gallery' section type to OnePagerCMS.",
+  "author": "OnePagerCMS",
+  "author_url": "https://onepagercms.de",
+  "main": "gallery-example.php",
+  "requires_opcms": "1.2.0",
+  "requires_php": "7.1",
+  "paid": false,
+  "update_endpoint": null,
+  "requires_license": false
+}
