@@ -1,4 +1,4 @@
-# Gallery Example — OnePagerCMS plugin
+# Gallery — OnePagerCMS plugin
 
 Reference plugin for the OnePagerCMS **custom section type API**. It adds an
 "Image Gallery" section type: a title plus a list of image URLs, rendered as a
